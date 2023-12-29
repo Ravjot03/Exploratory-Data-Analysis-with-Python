@@ -9,3 +9,7 @@ This repository encompasses the journey of delving into and examining data, span
 - How to approach a new dataset
 - Validate and summarize categorical and numerical data
 - Basic Seaborn visualizations
+
+
+## [Chapter - 2]()
+
