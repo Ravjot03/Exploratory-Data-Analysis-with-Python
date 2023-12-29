@@ -11,7 +11,7 @@ This repository encompasses the journey of delving into and examining data, span
 - Basic Seaborn visualizations
 
 
-## [Chapter - 2]()
+## [Chapter - 2]() :
 - Dealing with missing values in data
 - How to handle incorrect datatypes
 - Removing the outliers
