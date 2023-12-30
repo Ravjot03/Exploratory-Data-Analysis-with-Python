@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-with-Python
+# Exploratory-Data-Analysis-with-Python-Programming
 
 This repository encompasses the journey of delving into and examining data, spanning from comprehending the contents of a dataset to integrating exploration discoveries into a comprehensive data science workflow.
 
