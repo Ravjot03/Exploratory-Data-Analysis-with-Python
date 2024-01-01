@@ -19,5 +19,5 @@ This repository encompasses the journey of delving into and examining data, span
 
 ## [Chapter - 3]() :
 - Finding relationships across numerical, categorical, and even DateTime data.
-- Further exploring the direction and strength of the relationships b/w different columns to visualize.
+- Further exploring the direction and strength of the relationships b/w different columns.
 
