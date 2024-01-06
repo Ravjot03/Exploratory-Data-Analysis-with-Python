@@ -17,7 +17,7 @@ This repository encompasses the journey of delving into and examining data, span
 - Removing the outliers
 
 
-## [Chapter - 3  :
+## [Chapter - 3](https://github.com/Ravjot03/Exploratory-Data-Analysis-with-Python/blob/main/EDA-Chapter-3.ipynb) :
 - Finding relationships across numerical, categorical, and even DateTime data.
 - Further exploring the direction and strength of the relationships b/w different columns.
 
